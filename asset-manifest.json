@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7c0a282.chunk.css",
-    "main.js": "/static/js/main.31f0ce0d.chunk.js",
-    "main.js.map": "/static/js/main.31f0ce0d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7d920bb0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7d920bb0.js.map",
-    "static/js/2.7f12d953.chunk.js": "/static/js/2.7f12d953.chunk.js",
-    "static/js/2.7f12d953.chunk.js.map": "/static/js/2.7f12d953.chunk.js.map",
-    "static/js/3.f78d5415.chunk.js": "/static/js/3.f78d5415.chunk.js",
-    "static/js/3.f78d5415.chunk.js.map": "/static/js/3.f78d5415.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c7c0a282.chunk.css.map": "/static/css/main.c7c0a282.chunk.css.map",
-    "static/js/2.7f12d953.chunk.js.LICENSE.txt": "/static/js/2.7f12d953.chunk.js.LICENSE.txt"
+    "main.css": "/diwali-react-challenge/static/css/main.c7c0a282.chunk.css",
+    "main.js": "/diwali-react-challenge/static/js/main.31f0ce0d.chunk.js",
+    "main.js.map": "/diwali-react-challenge/static/js/main.31f0ce0d.chunk.js.map",
+    "runtime-main.js": "/diwali-react-challenge/static/js/runtime-main.de2f4750.js",
+    "runtime-main.js.map": "/diwali-react-challenge/static/js/runtime-main.de2f4750.js.map",
+    "static/js/2.7f12d953.chunk.js": "/diwali-react-challenge/static/js/2.7f12d953.chunk.js",
+    "static/js/2.7f12d953.chunk.js.map": "/diwali-react-challenge/static/js/2.7f12d953.chunk.js.map",
+    "static/js/3.f78d5415.chunk.js": "/diwali-react-challenge/static/js/3.f78d5415.chunk.js",
+    "static/js/3.f78d5415.chunk.js.map": "/diwali-react-challenge/static/js/3.f78d5415.chunk.js.map",
+    "index.html": "/diwali-react-challenge/index.html",
+    "static/css/main.c7c0a282.chunk.css.map": "/diwali-react-challenge/static/css/main.c7c0a282.chunk.css.map",
+    "static/js/2.7f12d953.chunk.js.LICENSE.txt": "/diwali-react-challenge/static/js/2.7f12d953.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d920bb0.js",
+    "static/js/runtime-main.de2f4750.js",
     "static/js/2.7f12d953.chunk.js",
     "static/css/main.c7c0a282.chunk.css",
     "static/js/main.31f0ce0d.chunk.js"
